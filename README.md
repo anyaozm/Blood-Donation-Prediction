@@ -31,4 +31,3 @@ When I tweak the hidden node values there seems to be a difference in the accura
 - [x] Let's Evaluate Our Model with the loss function and accuracy
 
 
-
